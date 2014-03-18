@@ -1,3 +1,11 @@
+#!/usr/bin/env python
+
+# Example of implementation of the viterbi algorithm for a  primitive clinic in a village.
+# People in the village have a very nice property that they are either healthy or have a fever.
+# They can only tell if they have a fever by asking a doctor in the clinic.
+# The wise doctor makes a diagnosis of fever by asking patients how they feel.
+# Villagers only answer that they feel normal, dizzy, or cold.
+
 states = ('Healthy', 'Fever')
  
 observations = ('normal', 'cold', 'dizzy')
