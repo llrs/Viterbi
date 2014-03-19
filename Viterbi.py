@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+# Code from the wikipedia page for Viterbi algorithm done or modified by Zhubarb
+# More implementations of Viterbi algorithm can be found at http://stackoverflow.com/questions/9729968/python-implementation-of-viterbi-algorithm
 # Example of implementation of the viterbi algorithm for a  primitive clinic in a village.
 # People in the village have a very nice property that they are either healthy or have a fever.
 # They can only tell if they have a fever by asking a doctor in the clinic.
